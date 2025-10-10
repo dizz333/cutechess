@@ -1,6 +1,5 @@
 name: build cutechess
 on:
-runs-on: self-hosted
   push:
     branches: [ master ]
   pull_request:
