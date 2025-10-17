@@ -100,4 +100,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - QMake build system was removed in favor of CMake
 - Travis and AppVeyor CI systems were removed in favor of GitHub Actions
-- Dynamic linking of `libcutechess`
+- Dynamic linking of `libcuteches
+
+
+17.10.2025
+- test
